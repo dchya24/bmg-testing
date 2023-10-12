@@ -1,0 +1,41 @@
+body {
+    background:
+        url("/assets/Images/BG 1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.jumbotron{
+    background:
+        linear-gradient(rgba(0, 0, 0, 0.623), rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.623)),
+        url("/assets/Images/salad-from-tomatoes-cucumber-red-onions-lettuce-leaves-healthy-summer-vitamin-menu-vegan-vegetable-food-vegetarian-dinner-table-top-view-flat-lay.jpg");
+    background-repeat: no-repeat;
+    color:white !important;
+    height: 100%;
+    background-size: 100%;
+}
+
+.card-item {
+    border: none;
+    background-color: transparent;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.card-item img {
+    border-radius: 0;
+}
+
+.list-bg-transparent, .list-bg-transparent li {
+    background-color: transparent;
+}
+
+.footer {
+    background-color: #987554;
+}
+
+.copyright {
+    background:
+        url("/assets/Images/BG 3 - FOOTER.jpg");
+    background-size: cover;
+}
